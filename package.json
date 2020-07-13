@@ -4,11 +4,11 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "lodash": "^4.17.19",
-    "slp-parser-js": "^4.1.0",
     "iconv-lite": "^0.5.2",
+    "lodash": "^4.17.19",
     "safer-buffer": "^2.1.2",
-    "semver": "^6.3.0"
+    "semver": "^6.3.0",
+    "slp-parser-js": "^4.1.0"
   },
   "devDependencies": {},
   "scripts": {
